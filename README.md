@@ -21,7 +21,7 @@ After it is installed (usually 500MB), open the new Ubuntu app.
 ### Step 3
 When Ubuntu is set up, enter your new username in the UNIX username prompt, and your password in the password prompt. You will be required to repeat the password. When this is done, move on to Step 4.
 ### Step 4
-Download the 'ubuntudesktop.sh' file to your windows desktop.
+Download the 'ubuntudesktop-v1.sh' file to your windows desktop.
 In the Ubuntu terminal (Command Prompt or Powershell using the command 'bash' or simply opening the Ubuntu app again), type the command 'cd /mnt/c/users/<YOUR WINDOWS USERNAME>/desktop && sudo chmod +x ubuntudesktop.sh && sudo ./ubuntudesktop.sh' and let it run.
 PAY ATTENTION TO THE STATEMENTS IT MAKES INBETWEEN THE EQUALS SIGNS.
 ### Step 5
